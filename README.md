@@ -14,7 +14,7 @@ Program yang diciptakan untuk mempermudah pentest wireless menggunakan tipe Deau
 
 ---------------------------------------------------------------------------------------------------------
 # OS
-WINDOWS | LINUX | MAC OS
+LINUX
 
 ------------------------------------------------------------
 # Lisensi
