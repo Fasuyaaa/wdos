@@ -10,7 +10,7 @@ Program yang diciptakan untuk mempermudah pentest wireless menggunakan tipe Deau
 
 ---------------------------------------------------------------------------------------------------------
 # Peringatan
-- Sistem ini dapat merusak chipset wifi apabila terlalu sering digunakan.
+- Program ini dapat merusak chipset wifi apabila terlalu sering digunakan.
 
 ---------------------------------------------------------------------------------------------------------
 # OS
