@@ -17,8 +17,8 @@ Program yang diciptakan untuk mempermudah pentest wireless menggunakan tipe Deau
 LINUX
 
 ------------------------------------------------------------
-# Lisensi
-Copyright of Fasuyaaa, 2022  
+# Source:
+- Red_Python_Script  
 
 -------------------------------------------------------------
 
